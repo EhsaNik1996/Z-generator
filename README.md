@@ -1,1 +1,1 @@
-# Zoviz-generator
+# Z-generator
